@@ -1,5 +1,6 @@
 # PHP-12a
-test test
+REGEL 1 TEST
 hoi
 doei
 lol
+sss
